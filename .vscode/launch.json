@@ -1,0 +1,40 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "coba",
+            "cwd": "coba",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "coba (profile mode)",
+            "cwd": "coba",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "coba (release mode)",
+            "cwd": "coba",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "tugas_praktikum",
+            "cwd": "Pertemuan 2\\tugas_praktikum",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "flutter",
+            "cwd": "Pertemuan 1\\flutter_windows_3.24.1-stable\\flutter",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
