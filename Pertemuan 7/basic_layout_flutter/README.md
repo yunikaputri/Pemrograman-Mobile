@@ -36,4 +36,4 @@ Note: Dikarenakan kesalahan gambar tidak muncul maka untuk memastikan bahwa bagi
 ![Screenshot basic_layout_flutter](assets/card.png)
 
 # ListTile
-![Screenshot basic_layout_flutter](assets/LislTile.png)
+![Screenshot basic_layout_flutter](assets/listTile.png)
