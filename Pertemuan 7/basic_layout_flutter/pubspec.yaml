@@ -17,3 +17,10 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets:
+  - assets/pic1.jpeg
+  - assets/pic2.jpeg
+  - assets/pic3.jpeg
+  - assets/pavlova.jpeg
+  - assets/materialApps.png
+  - assets/yunika.png
