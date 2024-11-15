@@ -270,7 +270,7 @@ class _HomeScreenState extends State<HomeScreen> {
                             width: 10,
                           ),
                           Text(
-                            'Cold Cover: ${cover.toInt()}°C',
+                            'Cold Cover: ${cover.toInt()}%',
                             style: TextStyle(
                               fontSize: 20,
                               fontWeight: FontWeight.w600,
